@@ -47,6 +47,9 @@ section {
   background: #f0f6f4;
   border-radius: 8px;
 }
+section h2 {
+  color: #174a45;
+}
 
 @media (max-width: 600px) {
   header {
