@@ -74,3 +74,10 @@ section h2 {
 .dark-mode section h2 {
   color: white;
 }
+input,
+textarea {
+  display: block;
+  width: 100%;
+  margin-bottom: 1rem;
+  padding: 0.5rem;
+}
